@@ -15,3 +15,8 @@ with col2:
                 Data Preprocessing: Cleaning, transforming, and preparing data for ML algorithms. 
 
                 """)
+    
+    st.header('Course Offered')
+    st.subheader('Data Science')
+    st.subheader('Data Analysis')
+    st.subheader('Data Engineering')
