@@ -20,3 +20,5 @@ with col2:
     st.subheader('Data Science')
     st.subheader('Data Analysis')
     st.subheader('Data Engineering')
+    st.subheader('MERN Stack')
+    st.subheader('Backend Developemnt')
