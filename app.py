@@ -16,13 +16,13 @@ with col2:
 
                 """)
     
+    st.subheader('Hey, Good Morning Learner!!')
     st.header('Course Offered')
     st.subheader('Data Science')
     st.subheader('Data Analysis')
     st.subheader('Data Engineering')
     st.subheader('MERN Stack')
     st.subheader('Backend Developemnt')
-
     st.sidebar.title('Menu')
     st.markdown("""
                 - Home
