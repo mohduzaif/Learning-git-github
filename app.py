@@ -24,7 +24,7 @@ with col2:
     st.subheader('MERN Stack')
     st.subheader('Backend Developemnt')
     st.sidebar.title('Menu')
-    st.markdown("""
+    st.sidebar.markdown("""
                 - Home
                 - Connect
                 - Career
