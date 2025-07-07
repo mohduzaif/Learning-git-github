@@ -23,4 +23,9 @@ with col2:
     st.subheader('MERN Stack')
     st.subheader('Backend Developemnt')
 
-    st.subheader('These changes are only show in the main branch.')
+    st.sidebar.title('Menu')
+    st.markdown("""
+                - Home
+                - Connect
+                - Career
+                    """)
