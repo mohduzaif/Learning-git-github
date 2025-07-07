@@ -28,4 +28,6 @@ with col2:
                 - Home
                 - Connect
                 - Career
+                - About 
+                - Logout
                     """)
